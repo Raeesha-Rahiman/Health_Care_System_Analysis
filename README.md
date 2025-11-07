@@ -12,12 +12,16 @@ The goal is to apply analytical methods to health care data and demonstrate comp
 - To measure hospital efficiency and average patient stay duration.
 - To visualize overall healthcare operations with dynamic and interactive dashboards.
 
-  | Step | Stage                             | Tool                  | Description                                                                                                                                                |
+  
+
+| Step | Stage                             | Tool                  | Description                                                                                                                                                |
 | ---- | --------------------------------- | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1    | **Data Cleaning & Preparation**   | **Excel**               | Cleaned and standardize single datset to multiple and created hospital, doctor, and patient records. Removed nulls, duplicates, and corrected inconsistent values. |
 | 2    | **Data Transformation**           | **SQL**               | Joined different tables to create unified views (doctor, patient, billing). Calculated metrics such as total revenue, average billing, and length of stay. |
 | 3    | **Data Analysis & Visualization** | **Power BI**          | Designed three interactive dashboards — **Financial**, **Doctor Demographic**, and **Patient Demographic** — for in-depth performance analysis.            |
 | 4    | **Reporting & Insights**          | **Power BI / GitHub** | Presented visual KPIs and trends to highlight key findings and recommendations.
+
+
 
 ## 🧰 Tech Stack
 - **Excel:** Data cleaning, removing duplicates, handling nulls.
