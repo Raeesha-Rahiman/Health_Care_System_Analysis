@@ -37,7 +37,7 @@ Below dashboards are interactive dashboard which is connected with slicer panel
 
 <img width="1003" height="551" alt="PATIENT DASHBOARD " src="https://github.com/user-attachments/assets/059a2586-df6e-4260-b16d-636f15073c1a" />
 
-<img width="997" height="553" alt="Doctor Dashboard " src="https://github.com/user-attachments/assets/c23ab21b-7908-4b72-a985-25474a4a6326" />
+<img width="1007" height="555" alt="N docotr" src="https://github.com/user-attachments/assets/c05b0538-ab90-495e-b8e2-8c6944cd2ad3" />
 
 <img width="958" height="537" alt="Home page" src="https://github.com/user-attachments/assets/625d09ee-88fd-4a5e-8345-74dcd936fa29" />
 
