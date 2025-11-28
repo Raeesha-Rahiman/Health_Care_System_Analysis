@@ -32,8 +32,8 @@ The goal is to apply analytical methods to health care data and demonstrate comp
 
 
 # Dashboard
-Below dashboards are interactive dashboard whihc is connected with slicer panel
-<img width="1005" height="565" alt="Health Care Dashboard" src="https://github.com/user-attachments/assets/c0d2792b-e4f9-42c7-a79b-e373f8f44c28" />
+Below dashboards are interactive dashboard which is connected with slicer panel
+<img width="1005" height="563" alt="N HEALTH CARE" src="https://github.com/user-attachments/assets/85f4606a-2708-4876-afaa-01180079718a" />
 
 <img width="1003" height="551" alt="PATIENT DASHBOARD " src="https://github.com/user-attachments/assets/059a2586-df6e-4260-b16d-636f15073c1a" />
 
